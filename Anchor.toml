@@ -1,0 +1,15 @@
+[programs.devnet]
+solana_coinflip = "CoinFlip1111111111111111111111111111111111111"
+
+[programs.localnet]
+solana_coinflip = "CoinFlip1111111111111111111111111111111111111"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "Devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+deploy = "npm run deploy:devnet"
