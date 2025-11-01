@@ -1,5 +1,10 @@
 # Solana Coinflip
-
+    ██╗     ██╗██╗     ██╗     ██████╗██╗     ██╗
+    ██║     ██║██║     ██║    ██╔════╝██║     ██║
+    ██║     ██║██║     ██║    ██║     ██║     ██║
+    ██║     ██║██║     ██║    ██║     ██║     ██║
+    ███████╗██║███████╗██║    ╚██████╗███████╗██║
+    ╚══════╝╚═╝╚══════╝╚═╝     ╚═════╝╚══════╝╚═╝
 A production-ready Anchor program and test suite for a provably fair coinflip game. Players wager SOL, choose heads or tails, and the vault automatically pays out winners at 2x their stake. This starter ships with automated bootstrap commands so you can deploy to devnet and iterate fast.
 
 ## Features
